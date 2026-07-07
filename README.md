@@ -1,38 +1,46 @@
-# Hi there, I'm Shribisha Buddhacharya! 👋
-## 🚀 About Me
+# Hi, I'm Shribisha 👋
 
-I’m an IT student currently in my second year of a Bachelor's in Information Technology at Informatics College Pokhara. I am passionate about expanding my knowledge in both backend and frontend development, with a strong interest in UI/UX design. My ultimate goal is to become a full-stack developer, and I am continuously working towards it.
+Full-Stack Developer | IT & Network Support
 
-Alongside these, I have experience in technical documentation and writing. I have a decent knowledge in HTML and CSS and am eager to improve my problem-solving and development skills.
+I'm a BSc (Hons) Computing student at Informatics College Pokhara (partnered with London Metropolitan University, UK), graduating in 2026. My main goal is full-stack development, and I also have hands-on experience in networking and IT infrastructure.
 
-I am equally fascinated by networking and various aspects of IT, always eager to explore new technologies and enhance my problem solving skills. I love learning, experimenting, and building something new and creative.
+## What I Do
 
-## 📚 What I'm Currently studying 
-🔹 Backend Development
+- Build full-stack web apps using **React**, **Spring Boot**, and **ASP.NET Core**
+- Design and normalize relational databases (**PostgreSQL**, **MySQL**)
+- Have practical experience with **Cisco/MikroTik networking**, **VLANs**, **virtualization**, and **system administration** from a real IT internship
 
-🎨 UI/UX Design
+## Skills
 
-🖋 Technical Writing
+**Languages:** Java, C#, Python, JavaScript, HTML, CSS
+**Frontend:** React.js (Vite), Tailwind CSS, React Router
+**Backend:** Spring Boot, Spring Security, ASP.NET Core Web API, Entity Framework Core, Java Servlets & JSP
+**Databases:** PostgreSQL, MySQL, ER Modeling & Normalization
+**Tools:** Git, GitHub, Postman, Maven, IntelliJ IDEA, Visual Studio, VS Code, Eclipse
+**Networking & Systems:** Cisco IOS CLI, MikroTik RouterOS, VLANs, DHCP/DNS, VMware, Proxmox, Windows Server
 
-🌐 Frontend Development
+## Featured Project
 
-## Eager to apply what I have learnt in real-world projects and continuously expand my skill set!
+### 🪙 [Kundanika — Gold Shop Management System](https://kundanikafrontend-roan.vercel.app/)
+My final year project. A web platform that replaces paper-based record keeping for gold shops in Nepal — covering gold stock tracking, inventory, artisan management, billing, and Khalti payment integration.
+**Stack:** Java, Spring Boot, React, PostgreSQL
+**Repo:** [github.com/shribisha613/KNA-BACKUP](https://github.com/shribisha613/KNA-BACKUP)
 
-## 🎯 Interests & Hobbies
-🎬 Watching K-Dramas
+## Other Projects
 
-✍️ Creative Writing
+- **[AutoNexis](https://github.com/ICP-Y3/course-work-2-c-squad-3)** — Vehicle service and inventory management system (ASP.NET Core, PostgreSQL) — group project, I was team lead
+- **[Once Daily](https://github.com/shribisha613/once-daily-journal-app)** — A private journal app with PIN protection and mood tracking (C#, .NET MAUI Blazor)
+- **[Kumari Cineverse](https://github.com/shribisha613/KumariCineverse-Data-and-web-development)** — Database design and normalization for a cinema booking system
+- **[Cravers Corner](https://github.com/shribisha613/cravers_corner)** — Food ordering platform with admin and customer sides (Java Servlets, MySQL)
+- **[Exam Seat Finder](https://shribisha613.github.io/exam-seat-finder/)** — A solution  for students to find their exam seat by name or ID
 
-🎧 Listening to Music
+## Experience
 
-🌐 Networking 
+- **Documentation Assistant** — Curi (AI App), Remote
+- **IT and Network Operations Support Intern** — Informatics College Pokhara, IT Department
+- **Member, Frontend & Database Design** — Developer Community ICP (student club)
 
-#You can reach out to me at: aryashri.713@gmail.com
-##
-## 
-I am eager to join the Developers' Community to apply my knowledge in real-world situations. Being part of this community will provide me with the opportunity to work on actual projects, solve real problems, and strengthen my problem-solving skills. I am committed to gaining hands-on experience in development and deepening my knowledge, which will help me enhance my practical abilities. The chance to collaborate with others, learn, exchange ideas, and tackle challenges in a team environment is something I truly look forward to. 
-#
-I especially look forward to learning both front-end and back-end development, and gaining insights into how development works in a professional setting. I believe this community will serve as the ideal platform for skill-building, teamwork, and continuous learning. I am dedicated to becoming more reliable and productive, and I am confident I will learn a great deal from both the experiences here and my peers.
-Recently, I have been finding advanced Java particularly interesting, and I am positive that being part of this community will provide me with the opportunity to learn more about it.
+## Get In Touch
 
-
+- 📧 aryashri.713@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shribisha-buddhacharya-36a7622b5)
