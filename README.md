@@ -24,7 +24,7 @@ I enjoy building reliable full-stack applications while continuously expanding m
 
 🌐 **Networking & IT Infrastructure**
 
-* Practical experience with **Cisco** and **MikroTik**
+* Practical experience with **Cisco** and **Network Devices**
 * VLAN configuration, switching & routing
 * Virtualization and system administration
 * Infrastructure monitoring and troubleshooting
@@ -64,7 +64,7 @@ Git • GitHub • Maven • Postman • IntelliJ IDEA • Visual Studio • VS 
 
 ### Networking
 
-Cisco IOS • MikroTik RouterOS • VLANs • DHCP • DNS • VMware • Proxmox • Windows Server
+Cisco Switches • Router • VLANs • DHCP • DNS • VMware • Proxmox • Windows Server
 
 ---
 
