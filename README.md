@@ -1,5 +1,5 @@
 # Hi, I'm Shribisha 👋
-
+🌐 **Portfolio:** https://shribishabuddhacharya.vercel.app/
 ### Full-Stack Developer • IT & Network Support
 
 I'm a **BSc (Hons) Computing** student at **Informatics College Pokhara** (partnered with **London Metropolitan University, UK**), graduating in **2026**.
@@ -151,6 +151,9 @@ https://github.com/shribisha613/Kundanika-Gold-Shop-Management
 
 💼 **LinkedIn**
 https://www.linkedin.com/in/shribisha-buddhacharya-36a7622b5
+
+🧑‍💻 **PORTFOLIO**
+https://shribishabuddhacharya.vercel.app/
 
 ---
 
